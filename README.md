@@ -1,2 +1,2 @@
-# SoftUni-JS-Front-End-
+# SoftUni-JS-Front-End
 Feb-2023
